@@ -95,8 +95,6 @@ Este repositorio contiene la documentación y evidencias del despliegue y config
 | PostgreSQL | `localhost` | `dbpg` | `5432` | `pguser` | 
 | MariaDB | `localhost` | `dbm` | `3306` | `muser` | 
 
-> *Nota: Las contraseñas utilizadas durante la práctica han sido omitidas por motivos de seguridad.*
-
 ## 3. Instalación y Configuración Paso a Paso
 
 ### 3.1. Clientes para Oracle Database
